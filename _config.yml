@@ -1,16 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              저길 봐, 작은 점 하나 너하고 내가 살던 별이야
+email:              maker_augustleo@kakao.com
+description:        한 번도 넌 떠나본 적이 없었지, 아마 더 큰 용기가 필요하겠지
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://maker-augustleo.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   llleeo0421
+github_username:    August-leo-0805
+instagram_username:  llleeo0421
+linkedin_username:  augustleo
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -22,4 +21,4 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
