@@ -2,6 +2,7 @@ title:              저길 봐, 작은 점 하나 너하고 내가 살던 별이
 email:              maker_augustleo@kakao.com
 description:        한 번도 넌 떠나본 적이 없었지, 아마 더 큰 용기가 필요하겠지
 author:             Leo Kim   
+baseurl:            "/"
 url:                "https://maker-augustleo.github.io"
 
 # Social Profiles
